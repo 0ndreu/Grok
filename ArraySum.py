@@ -1,5 +1,5 @@
 def get_sum_arr(arr):
-    if len(arr) == 1:
+    if len(arr) == 2:
         return 0
     else:
         newarr = []
